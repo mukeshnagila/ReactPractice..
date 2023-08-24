@@ -1,8 +1,8 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import Classcompo from './compo/Classcompo';
-import Functioncompo, { FunctioncompoOne, FunctioncompoTwo } from './compo/Functioncompo';
-import FuncStyle from './Style/FuncStyle';
+import Functioncompo from './compo/Functioncompo';
+// import FuncStyle from './Style/FuncStyle';
 import PropsCompo from './Day3/PropsCompo';
 import Props4Compo from './Day4/Props4compo';
 
